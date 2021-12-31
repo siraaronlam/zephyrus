@@ -1,0 +1,19 @@
+{
+  "name": "zephyrus",
+  "version": "1.0.0",
+  "description": "Netlify backend service provider for serverless functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siraaronlam/zephyrus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siraaronlam/zephyrus/issues"
+  },
+  "homepage": "https://github.com/siraaronlam/zephyrus#readme"
+}
